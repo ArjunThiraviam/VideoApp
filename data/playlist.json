@@ -1,0 +1,17 @@
+[
+	{
+		"title":"Demo Video one",
+		"path":"video/one.mp4", 
+        "description":"This is a video used as a demo for our video player app."
+	},
+    {
+		"title":"Demo Video two",
+		"path":"video/two.mp4", 
+        "description":"This is the second video used as a demo for our video player app."
+	},
+    {
+		"title":"Demo Video three",
+		"path":"video/three.mp4", 
+        "description":"This is the third video used as a demo for our video player app."
+	}
+]
